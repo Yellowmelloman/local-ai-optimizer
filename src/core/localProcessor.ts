@@ -1,8 +1,1 @@
-export class LocalProcessor {
-  async analyzeCode(content: string) {
-    return {
-      structure: this.parseStructure(content),
-      patterns: this.identifyPatterns(content)
-    };
-  }
-}
+{"content": "ZXhwb3J0IGNsYXNzIExvY2FsUHJvY2Vzc29yIHsKICBhc3luYyBhbmFseXplQ29kZShjb250ZW50OiBzdHJpbmcpIHsKICAgIHJldHVybiB7CiAgICAgIHN0cnVjdHVyZTogdGhpcy5wYXJzZVN0cnVjdHVyZShjb250ZW50KSwKICAgICAgcGF0dGVybnM6IHRoaXMuaWRlbnRpZnlQYXR0ZXJucyhjb250ZW50KQogICAgfTsKICB9Cn0=", "encoding": "base64"}
